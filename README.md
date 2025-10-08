@@ -1,6 +1,6 @@
 🧠 Student Information System (SIS) – QA Automation Project
 
-This project automates end-to-end testing for a Student Information System (SIS) web application. It validates key workflows like student registration, login, course enrollment, and grade management using a robust Selenium-TestNG framework built on Java and Maven.
+This project automates end-to-end testing for a Student Information System (SIS) web application. It validates key workflows like student registration, login, course enrollment, and grade management using a robust Selenium-Cucumber framework built on Java and Maven.
 
 🔧 Tech Stack
 
